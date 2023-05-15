@@ -374,7 +374,7 @@ tags:
     description: |
       ## Why can't I source the trust chain from the TPP's certificate?
 
-      Only be sourcing PSD2 trust chains from a known and trusted source can you be assured that the TPP's certificate is valid for use with PSD2.
+      Only by obtaining trust chains from a known and trusted source can you be assured that the TPP's certificate is valid for use with PSD2.
 
       While the TPP's certificate may provide a link to source its issuing certificate, it is not possible to determine if the issuing certificate belongs to a QTSP authorized to issue PSD2 certificates.
 
