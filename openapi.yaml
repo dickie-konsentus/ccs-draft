@@ -62,7 +62,7 @@ tags:
 
       Konsentus monitors for this and takes best endevours to source any missing Intermediate and Root Certificates required to complete these Trust Chains.
 
-      These are occasionally published on the relevant QTSP's website and Konsentus will first check there to locate any missing Itermediate or Root Certificates.
+      These are occasionally published on the relevant QTSP's website and Konsentus will first check there to locate any missing Intermediate or Root Certificates.
 
       If these are not available from the LOTL or the QTSP's website, Konsentus will make contact with the QTSP to request these certificates.
 
