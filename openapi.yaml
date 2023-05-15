@@ -30,7 +30,7 @@ tags:
     description: |
       | Term | Definition |
       | :--- | :--- |
-      | **eIDAS** | Electronic Iden1tification Authentication and Trust Services. This is an EU regulation on electronic identification for electronic transactions within the single market. Konsentus is primarily concerned with the eIDAS certificates that are used by PSPs to identify each other when they are performing electronic transactions. |
+      | **eIDAS** | Electronic Identification Authentication and Trust Services. This is an EU regulation on electronic identification for electronic transactions within the single market. Konsentus is primarily concerned with the eIDAS certificates that are used by PSPs to identify each other when they are performing electronic transactions. |
       | **Intermediate Certificate** | A certificate within a Trust Chain sitting between the Root Certificate and the Issuing Certificate. The Intermediate Certificate may be used to issue either the Issuing Certificate, or another Intermediate Certificate in the Trust Chain. |
       | **Issuing Certificate** | A certificate used by a QTSP for the purpose of issuing eIDAS certificates. |
       | **JWK** | JSON Web Key. This is a <a href="https://www.ietf.org/rfc/rfc7517.txt" target="_blank">standardised format</a> for the presentation of public keys. The Certificate Chain Service presents Trust Chains in the JWK format with an entry for each Issuing Certificate. |
