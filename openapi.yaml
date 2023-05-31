@@ -685,7 +685,7 @@ components:
     trustChains:
       description: Success Response
       content:
-        application/json:
+        application/jwk-set+json:
           schema:
             type: object
             properties:
